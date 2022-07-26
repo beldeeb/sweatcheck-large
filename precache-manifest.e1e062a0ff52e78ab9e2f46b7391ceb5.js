@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e72ab97e1c3518aeac60",
+    "revision": "96559023f2a6dc61ff35",
     "url": "/sweatcheck-large/static/css/main.523a9466.chunk.css"
   },
   {
-    "revision": "e72ab97e1c3518aeac60",
-    "url": "/sweatcheck-large/static/js/main.0ea8a3fc.chunk.js"
+    "revision": "96559023f2a6dc61ff35",
+    "url": "/sweatcheck-large/static/js/main.9f1951e0.chunk.js"
   },
   {
     "revision": "16d753c778ede722af73",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/sweatcheck-large/static/media/bg2.6b048dee.png"
   },
   {
-    "revision": "8c36e38fbbd51243865524bcefca3cad",
+    "revision": "d1cd7e61781a64322cd28b5e68d812c7",
     "url": "/sweatcheck-large/index.html"
   }
 ];
